@@ -1,6 +1,7 @@
 1.this is frist days 
  sfdgghhhjjkkkkl
  new change xyz
+<<<<<<< HEAD
  
  ==============
 
@@ -9,3 +10,10 @@
  ==============
 
  1234
+=======
+  1234
+===================
+Change done by another person or manual 
+
+==================
+>>>>>>> a9bd275ae0182bdd291100c4e2273cb74d2cd16b
