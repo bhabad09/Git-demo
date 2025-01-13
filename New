@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this change i made in Rebase branch (rebase)
 this is another change i made in Rebase 
 this is 3rd change
@@ -6,6 +7,8 @@ This is change i Create in Main
 This is chnage i create in Main
 This is change i Create in Merge Banch (Merge)
 
+=======
+>>>>>>> d8e277a (commit Made in Merge)
 This is change i Create in Merge Banch (Merge)
 
 
